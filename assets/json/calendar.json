@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "title": "Parent teacher's meeting",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to ",
+      "startTime": "2023-01-02T07:12:50+07:00",
+      "endTime": "2023-01-02T07:13:50+07:00"
+    },
+    {
+      "title": "Quarterly exam - Telugu",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to ",
+      "startTime": "2023-01-03T07:12:50+07:00",
+      "endTime": "2023-01-02T07:13:50+07:00"
+    },
+    {
+      "title": "Quarterly exam - Hindi",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to",
+      "startTime": "2023-01-04T07:12:50+07:00",
+      "endTime": "2023-01-02T07:12:50+07:00"
+    },
+    {
+      "title": "Quarterly exam - English",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to ",
+      "startTime": "2023-01-05T07:12:50+07:00",
+      "endTime": "2023-01-02T07:13:50+07:00"
+    },
+    {
+      "title": "Parent teacher's meeting",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to ",
+      "startTime": "2023-01-02T07:12:50+07:00",
+      "endTime": "2023-01-02T07:13:50+07:00"
+    },
+    {
+      "title": "Quarterly exam - Telugu",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to ",
+      "startTime": "2023-01-03T07:12:50+07:00",
+      "endTime": "2023-01-02T07:13:50+07:00"
+    },
+    {
+      "title": "Quarterly exam - Hindi",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to ",
+      "startTime": "2023-01-04T07:12:50+07:00",
+      "endTime": "2023-01-02T07:12:50+07:00"
+    },
+    {
+      "title": "Quarterly exam - English",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to ",
+      "startTime": "2023-01-05T07:12:50+07:00",
+      "endTime": "2023-01-02T07:13:50+07:00"
+    }
+  ]
+}

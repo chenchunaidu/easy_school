@@ -1,0 +1,8 @@
+{
+  "blocks": [
+    {
+      "blockType": "text",
+      "blockProps": { "typography": "Header3", "text": "Header3 text" }
+    }
+  ]
+}
